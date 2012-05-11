@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  user_id: 1
+  system_id: 1
+  name: MyString
+  desc: MyText
+  vars: MyText
+
+two:
+  user_id: 1
+  system_id: 1
+  name: MyString
+  desc: MyText
+  vars: MyText

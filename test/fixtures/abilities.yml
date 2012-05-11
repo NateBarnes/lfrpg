@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  system_id: 1
+  name: MyString
+  category: MyString
+  arguments: MyString
+
+two:
+  system_id: 1
+  name: MyString
+  category: MyString
+  arguments: MyString
