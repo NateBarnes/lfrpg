@@ -1,0 +1,1 @@
+LFGame is a rails application to host online versions of tabletop pen and paper role playing games.
