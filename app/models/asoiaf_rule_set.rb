@@ -1,3 +1,0 @@
-class ASOIAFRuleSet
-  
-end

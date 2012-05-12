@@ -1,3 +1,3 @@
-class DNDRuleSet
+class DNDRuleSet < RuleSet
   
 end
