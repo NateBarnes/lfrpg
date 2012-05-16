@@ -1,4 +1,4 @@
-class CharacterItems < ActiveRecord::Base
+class CharacterItem < ActiveRecord::Base
   attr_accessible :active, :character_id, :item_id
   serialize :vars, Hash
   belongs_to :characters

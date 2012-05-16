@@ -3,9 +3,9 @@
 one:
   character_id: 1
   item_id: 1
-  active: false
+  vars: {}
 
 two:
   character_id: 1
   item_id: 1
-  active: false
+  vars: {}
